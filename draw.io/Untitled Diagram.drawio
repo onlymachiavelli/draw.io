@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T10:28:27.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="_b3eAGLcggnv7ooXVKEZ" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T10:31:37.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="y2mdJDhRIFJJEWijeL6w" version="15.4.1" type="github">
   <diagram id="OcJFh2Heht5LoRukSj09" name="Page-1">
-    <mxGraphModel dx="403" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mhCUlwxRngzx9CdpR7tA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="-1020" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mhCUlwxRngzx9CdpR7tA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhCUlwxRngzx9CdpR7tA-2" target="mhCUlwxRngzx9CdpR7tA-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mhCUlwxRngzx9CdpR7tA-2" value="MongoDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="-990" width="120" height="60" as="geometry" />
@@ -18,6 +21,15 @@
             <Array as="points">
               <mxPoint x="320" y="-860" />
               <mxPoint x="425" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhCUlwxRngzx9CdpR7tA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mhCUlwxRngzx9CdpR7tA-3" target="mhCUlwxRngzx9CdpR7tA-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="-920" />
+              <mxPoint x="460" y="-920" />
+              <mxPoint x="460" y="-805" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -56,6 +68,9 @@
         </mxCell>
         <mxCell id="mhCUlwxRngzx9CdpR7tA-19" value="MAPP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="-590" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mhCUlwxRngzx9CdpR7tA-20" value="CLOUD STORAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
