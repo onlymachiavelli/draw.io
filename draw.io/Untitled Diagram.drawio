@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T18:16:49.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="hrf5HGNeiESBK5LXwgF6" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T18:17:39.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="x747zEkWsnqRTB1Ig0su" version="15.5.4" type="github">
   <diagram id="OcJFh2Heht5LoRukSj09" name="Page-1">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,6 +129,9 @@
         <mxCell id="haECpX7TE7RJu7VrboTy-17" value="FOUND" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="168.75" y="120" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OCWS-tRhN5RSfJbROMwg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCWS-tRhN5RSfJbROMwg-1" target="OCWS-tRhN5RSfJbROMwg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OCWS-tRhN5RSfJbROMwg-1" value="Post" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="500" width="130" height="60" as="geometry" />
         </mxCell>
@@ -144,10 +147,13 @@
         <mxCell id="OCWS-tRhN5RSfJbROMwg-4" value="Personal use" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OCWS-tRhN5RSfJbROMwg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OCWS-tRhN5RSfJbROMwg-9" target="OCWS-tRhN5RSfJbROMwg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OCWS-tRhN5RSfJbROMwg-9" value="Rate, Pick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCWS-tRhN5RSfJbROMwg-12" value="STORE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OCWS-tRhN5RSfJbROMwg-12" value="Products" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="620" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
